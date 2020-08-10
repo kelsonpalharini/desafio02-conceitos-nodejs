@@ -39,4 +39,4 @@ yarn jest
 
 - [Node.JS](https://nodejs.org/) - JavaScript runtime
 - [Express](https://expressjs.com/) - Rest Framework
-- [JEST](https://jestjs.io//) - Testing Framework
+- [JEST](https://jestjs.io//) - JavaScript Testing Framework
