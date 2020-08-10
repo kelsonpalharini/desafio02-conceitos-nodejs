@@ -14,7 +14,7 @@
 
 Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
-Mais detalhes do desafio você encontra clicando aqui, [Desafio 02 - Node.Js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
+Mais detalhes do desafio você encontra clicando em [Desafio 02 - Node.Js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs).
 
 ### Rodando a aplicação <a name = "running"></a>
 
