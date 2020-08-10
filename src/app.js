@@ -30,6 +30,8 @@ app.post("/repositories", (request, response) => {
 
   repositories.push(repository);
 
+  repository.likes = 0;
+
   return response.json(repository);
 });
 
